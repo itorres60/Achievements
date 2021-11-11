@@ -5,6 +5,6 @@ I am using React.js library .  I have incorporation Router from the dom library 
 
 ![Homepage Screenshot](/01.png "Homepage")
 
-![Homepage Screenshot](/02png "Homepage")
+![Homepage Screenshot](/02.png "Homepage")
 
 [Github Deployed](https://itorres60.github.io/Achievements/ "Github Deployed")
