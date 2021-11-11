@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/achievements/static/css/main.90e75332.chunk.css",
-    "main.js": "/achievements/static/js/main.031fd071.chunk.js",
-    "main.js.map": "/achievements/static/js/main.031fd071.chunk.js.map",
+    "main.js": "/achievements/static/js/main.20214b5d.chunk.js",
+    "main.js.map": "/achievements/static/js/main.20214b5d.chunk.js.map",
     "runtime-main.js": "/achievements/static/js/runtime-main.4d99bb6f.js",
     "runtime-main.js.map": "/achievements/static/js/runtime-main.4d99bb6f.js.map",
-    "static/js/2.d7be6786.chunk.js": "/achievements/static/js/2.d7be6786.chunk.js",
-    "static/js/2.d7be6786.chunk.js.map": "/achievements/static/js/2.d7be6786.chunk.js.map",
+    "static/js/2.ef17f44a.chunk.js": "/achievements/static/js/2.ef17f44a.chunk.js",
+    "static/js/2.ef17f44a.chunk.js.map": "/achievements/static/js/2.ef17f44a.chunk.js.map",
     "static/js/3.af80ae7c.chunk.js": "/achievements/static/js/3.af80ae7c.chunk.js",
     "static/js/3.af80ae7c.chunk.js.map": "/achievements/static/js/3.af80ae7c.chunk.js.map",
     "index.html": "/achievements/index.html",
     "static/css/main.90e75332.chunk.css.map": "/achievements/static/css/main.90e75332.chunk.css.map",
-    "static/js/2.d7be6786.chunk.js.LICENSE.txt": "/achievements/static/js/2.d7be6786.chunk.js.LICENSE.txt",
+    "static/js/2.ef17f44a.chunk.js.LICENSE.txt": "/achievements/static/js/2.ef17f44a.chunk.js.LICENSE.txt",
     "static/media/0.jpg": "/achievements/static/media/0.b8c530e6.jpg",
     "static/media/1.jpg": "/achievements/static/media/1.f1d49bf9.jpg",
     "static/media/2.jpg": "/achievements/static/media/2.e3d44a3e.jpg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4d99bb6f.js",
-    "static/js/2.d7be6786.chunk.js",
+    "static/js/2.ef17f44a.chunk.js",
     "static/css/main.90e75332.chunk.css",
-    "static/js/main.031fd071.chunk.js"
+    "static/js/main.20214b5d.chunk.js"
   ]
 }
