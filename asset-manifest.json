@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Achievements/static/css/main.90e75332.chunk.css",
-    "main.js": "/Achievements/static/js/main.eac0d3a4.chunk.js",
-    "main.js.map": "/Achievements/static/js/main.eac0d3a4.chunk.js.map",
+    "main.js": "/Achievements/static/js/main.8c86614d.chunk.js",
+    "main.js.map": "/Achievements/static/js/main.8c86614d.chunk.js.map",
     "runtime-main.js": "/Achievements/static/js/runtime-main.01154103.js",
     "runtime-main.js.map": "/Achievements/static/js/runtime-main.01154103.js.map",
     "static/js/2.ef17f44a.chunk.js": "/Achievements/static/js/2.ef17f44a.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.01154103.js",
     "static/js/2.ef17f44a.chunk.js",
     "static/css/main.90e75332.chunk.css",
-    "static/js/main.eac0d3a4.chunk.js"
+    "static/js/main.8c86614d.chunk.js"
   ]
 }
