@@ -8,14 +8,15 @@ import {
   BrowserRouter as Router,
   Route,
   Routes,
-  Link
+  Link,
+  NavLink
 } from "react-router-dom";
 
-// const [clickedNav, setClickedNave] = useState(false)
 
 
 
 function App() {
+
 
   useEffect(() => {
     document.title = "Portfolio";
@@ -34,16 +35,16 @@ function App() {
       <nav>
         <ul className="flex-row">
           <li>
-            <Link className="mx-2" to="/about-me">About Me</Link>
+            <NavLink className={"mx-2"} to="/about-me">About Me</NavLink>
           </li>
           <li>
-            <Link className="mx-2" to="/projects">Projects</Link>
+            <NavLink className={"mx-2"} to="/projects">Projects</NavLink>
           </li>
           <li>
-            <Link className="mx-2" to="/contact-me">Contact Me</Link>
+            <NavLink className={"mx-2"} to="/contact-me">Contact Me</NavLink>
           </li>
           <li>
-            <Link className="mx-2" to="/resume">Resume</Link>
+            <NavLink className={"mx-2"} to="/resume">Resume</NavLink>
           </li>
         </ul>
       </nav>
@@ -66,8 +67,9 @@ function App() {
       </Route>
     </Routes>
     <footer>
-      <a className="mx-2" href="https://github.com/itorres60">GITHUB</a>
-      <a className="mx-2" href="https://www.linkedin.com/in/torresji/">LINKEDIN</a>
+      <a className="mx-2" target='blank'  href="https://github.com/itorres60">GITHUB</a>
+      <a className="mx-2" target='blank'  href="https://www.linkedin.com/in/torresji/">LINKEDIN</a>
+      <a className="mx-2" target='blank'  href="https://www.linkedin.com/in/torresji/">NO THIRD PROFILE...so here's my linkedIn instead for the grade</a>
     </footer>
   </Router>
 
