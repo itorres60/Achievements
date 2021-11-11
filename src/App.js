@@ -27,7 +27,7 @@ function App() {
   <Router>
     <header className="flex-row px-1">
       <h2>
-        <Link to="/">
+        <Link to="/Achievements">
           <span role="img" aria-label="icon"></span> J I Torres
         </Link>
       </h2>
