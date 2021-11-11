@@ -2,7 +2,7 @@
   "homepage": "https://itorres60.github.io/Achievements",
   "name": "achievements",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
