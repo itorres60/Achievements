@@ -24,10 +24,10 @@ function App() {
 
   return (
 
-  <Router>
+  <Router basename="/Achievements">
     <header className="flex-row px-1">
       <h2>
-        <Link to="/Achievements">
+        <Link to="/">
           <span role="img" aria-label="icon"></span> J I Torres
         </Link>
       </h2>
