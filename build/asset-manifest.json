@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Achievements/static/css/main.90e75332.chunk.css",
+    "main.js": "/Achievements/static/js/main.c8b63b7a.chunk.js",
+    "main.js.map": "/Achievements/static/js/main.c8b63b7a.chunk.js.map",
+    "runtime-main.js": "/Achievements/static/js/runtime-main.0bc70b86.js",
+    "runtime-main.js.map": "/Achievements/static/js/runtime-main.0bc70b86.js.map",
+    "static/js/2.658fc91c.chunk.js": "/Achievements/static/js/2.658fc91c.chunk.js",
+    "static/js/2.658fc91c.chunk.js.map": "/Achievements/static/js/2.658fc91c.chunk.js.map",
+    "static/js/3.53ba1df7.chunk.js": "/Achievements/static/js/3.53ba1df7.chunk.js",
+    "static/js/3.53ba1df7.chunk.js.map": "/Achievements/static/js/3.53ba1df7.chunk.js.map",
+    "index.html": "/Achievements/index.html",
+    "static/css/main.90e75332.chunk.css.map": "/Achievements/static/css/main.90e75332.chunk.css.map",
+    "static/js/2.658fc91c.chunk.js.LICENSE.txt": "/Achievements/static/js/2.658fc91c.chunk.js.LICENSE.txt",
+    "static/media/0.jpg": "/Achievements/static/media/0.b8c530e6.jpg",
+    "static/media/1.jpg": "/Achievements/static/media/1.f1d49bf9.jpg",
+    "static/media/2.jpg": "/Achievements/static/media/2.e3d44a3e.jpg",
+    "static/media/3.jpg": "/Achievements/static/media/3.d01f1ec0.jpg",
+    "static/media/4.jpg": "/Achievements/static/media/4.33c4adb3.jpg",
+    "static/media/5.jpg": "/Achievements/static/media/5.8f6ff9df.jpg",
+    "static/media/cover-image.d96b7ee9.jpg": "/Achievements/static/media/cover-image.d96b7ee9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bc70b86.js",
+    "static/js/2.658fc91c.chunk.js",
+    "static/css/main.90e75332.chunk.css",
+    "static/js/main.c8b63b7a.chunk.js"
+  ]
+}
