@@ -24,7 +24,7 @@ function App() {
 
   return (
 
-  <Router>
+  <Router basename="/Achievements">
     <header className="flex-row px-1">
       <h2>
         <Link to="/">
