@@ -35,6 +35,11 @@ const PhotoList = ({ category }) => {
       name: 'Tech News',
       deployed: 'https://agile-caverns-16677.herokuapp.com/',
       github:'https://github.com/itorres60/Just-tech-news'
+    },
+    {
+      name: 'Relief and Rotations',
+      deployed: "https://stormy-falls-11237.herokuapp.com/",
+      github: "https://github.com/itorres60/Project_III"
     }
   ]);
 
